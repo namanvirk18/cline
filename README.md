@@ -34,12 +34,6 @@ The open source coding agent in your IDE, terminal, and desktop.
 
 </div>
 
-<br>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
